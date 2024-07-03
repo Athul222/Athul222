@@ -1,6 +1,6 @@
-## Hi, I'm Athul! 👋
+# Hi, I'm Athul! 👋
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I'm currently pursuing my carrier in computer science<br>🌱 Learning about programming.<br>📫I'm eager to learn about computers and networking.
 
 
